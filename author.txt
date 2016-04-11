@@ -1,2 +1,0 @@
-Author: Anthony Bolgar
-Credit to SigmazGFX for original code and concept.
