@@ -41,6 +41,8 @@ The links are just examples of the required items, you may be able to get them c
   4. 5V relay to disable laser firing http://www.ebay.ca/itm/Effective-Stable-1-Channel-5V-Indicator-Light-LED-Relay-Module-For-Arduino-SCW-/231718093803?hash=item35f37983eb:g:okkAAOSwT5tWGzNb
   5. I2C 2004 LCD display http://www.ebay.ca/itm/New-Yellow-Serial-IIC-I2C-TWI-2004-20X4-Character-LCD-Module-Display-For-Arduino-/131551735668?hash=item1ea1182f74:g:OjMAAOxyUrZS0ARf
   6. Flow sensor http://www.ebay.ca/itm/New-1-2-Water-Flow-Switch-Hall-Flow-Meter-Control-1-30L-min-Black-1pcs-/291411734936?hash=item43d97e3198:g:KAcAAOSwBLlVC6K3
+  7. 
+  
 
 ***
 
