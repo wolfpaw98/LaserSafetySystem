@@ -48,7 +48,7 @@ The links are just examples of the required items, you may be able to get them c
 
 ##Arduino Libraries
 
-Please use the arduino libraries in the libraries folder, as they are slightly modified from the original ones. You will get compile errors if you do no use these libraries
+Please use the arduino libraries in the libraries folder, as they are slightly modified from the original ones. You will get compile errors if you do no use these libraries. If these do not work for you, try https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads
 
 ***
 
