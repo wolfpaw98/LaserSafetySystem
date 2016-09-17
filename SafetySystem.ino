@@ -1,7 +1,7 @@
 /********************************
 Co2 Laser safety interlock and monitor
 
-Code by Anthony Bolgar based upon the code by SigmazGFX
+Code by Anthony Bolgar based upon the code by SigmazGFX (+Jon Bruno)
 
 LCD is a common 20x4 lcd panel driven by an I2C board.
 
