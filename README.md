@@ -29,6 +29,8 @@ Critical event disables the Laser
   4. D5 - Relay trigger to diasable laser fire (+5V to relay VCC, D5 connects to Relay IN,
           one side of laser enable to relay common, othe side of laser enable to relay NO)
   5. A0 - Coolant temperature monitor (Sensor - TMP36) (Pin1 to A0, Pin2 to +5V, Pin3 to ground)
+  6. A4 - SDA pin on LCD board.
+  7. A5 - SCL pin on LCD board
 
 ***
 ####Required Hardware
